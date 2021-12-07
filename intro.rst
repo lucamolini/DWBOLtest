@@ -13,7 +13,7 @@ La Plataforma DEWETRA para Bolivia es disponible al enlace web:
 
 La aplicación presenta un formulario de autentificación en la que es necesario escribir las credenciales y, a continuación, hacer clic en "Login". La siguiente figura muestra una captura de pantalla de la página de inicio de sesión de DEWETRA, tal como ocurre en la actualidad, con el logotipo de la aplicación en segundo plano.
 
-ma anche no!
+ma anche no! NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 .. figure:: img/img_acceso_dewBOL.png
     :height: 400px
