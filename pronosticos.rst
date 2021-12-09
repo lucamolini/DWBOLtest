@@ -10,11 +10,11 @@ Sobre la plataforma se pueden consultar los siguientes datos de pronósticos:
   - modelos hidráulicos
 
 
-.. figure:: img/img_pronostico_dewBOL.png
+.. figure:: previsioni/GFM_WMST.png
     :height: 400px
     :width: 800px
     :scale: 50 %
-    :alt: Dewetra Bolivia Pronósticos
+    :alt: GFM
     :align: center
     
     Pagina de los Pronósticos
