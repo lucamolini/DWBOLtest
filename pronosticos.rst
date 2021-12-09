@@ -11,7 +11,7 @@ Sobre la plataforma se pueden consultar los siguientes datos de pronósticos:
 
 
 .. figure:: previsioni/GFM_WMST.png
-    :height: 400px
+    :height: 1000px
     :width: 800px
     :scale: 50 %
     :alt: GFM
